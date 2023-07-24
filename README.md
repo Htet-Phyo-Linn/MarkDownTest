@@ -30,8 +30,8 @@ zz = view center
 :set number = jump line
 . = repeat last operation
 
-ctrl+space = autocomplete (vscode)
-shift+i = select multiple line and insert multiple line (vscode)
+ctrl+space = autocomplete (vscode) \
+shift+i = select multiple line and insert \ multiple line (vscode)
 shift+j = combine line 1 and line 2
     
 
