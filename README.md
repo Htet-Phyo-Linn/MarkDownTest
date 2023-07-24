@@ -17,7 +17,7 @@ left down up right
 
 
 ## Should know
-:w = save
+`:w` = save
 :wq = save and exit
 :q! = don't save and exit
 
